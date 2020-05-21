@@ -12,7 +12,7 @@ Now I've include a feature to delete, upload csv files and use Postgres to stora
 **You need to install [Node.js](https://nodejs.org/en/download/) 
 and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTPS, run this command:**
 
-```git clone https://github.com/gustavo-candido/Desafio-05-Primeiro-projeto-Node.js.git```
+```git clone https://github.com/gustavo-candido/Desafio-06-Banco-de-dados-e-upload-de-arquivos-no-Node.js.git```
 
 
 **Install dependencies:**
